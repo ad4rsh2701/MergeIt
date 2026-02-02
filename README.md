@@ -14,7 +14,7 @@ What to expect:
 - Select one or multiple docs, right click and convert them to one single PDF (I don't do this often, but good scope creep)
 
 Look, I can't seem to find *any* good resource on "PDF merging", I did get *some* resources on PDF structure, its objects and "tree".
-And, I *still don't get how things are inside a PDF* but I do have a high level overview. Although that won't make me write code in Rust, so I will
+And, I *still don't get how things are inside a PDF*, but I do have a high level overview. Although that won't make me write code in Rust, so I will
 use the following dependencies:
 1. `lopdf`: For merging PDFs
 2. `krilla`: For creating PDFs (e.g. Image to PDF)
