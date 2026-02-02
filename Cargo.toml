@@ -1,0 +1,11 @@
+[package]
+name = "MergeIt"
+version = "0.1.0"
+edition = "2024"
+authors = ["ad4rsh2701"]
+
+[dependencies]
+winreg = "0.55.0"
+krilla = "0.6.0"
+image = "0.25.9"
+lopdf = "0.39.0"
